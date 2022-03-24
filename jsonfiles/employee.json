@@ -1,0 +1,17 @@
+{
+	"firstName": "Utkarsh",
+	"lastName": "Gupta",
+	"address": [
+		{
+			"street": "abc",
+			"city": "Budaun",
+			"state": "UP"
+		},
+		{
+			"street": "xyz",
+			"city": "Bareilly",
+			"state": "UP"
+		}
+	]
+}
+			
